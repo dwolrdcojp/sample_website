@@ -1,0 +1,1 @@
+This is a **sample website** created using the [Learn Enough HTML to be Dangerous](https://www.learnenough.com/course/learn_enough_html/html/html_intro/project_start) tutorial on [LearnEnough.com](https://www.learenough.com).
